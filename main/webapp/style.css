@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color:#FFE4B1 
+}
+
+h1{
+	text-align:center;
+}
+
+.account{
+	display:flex;
+	justify-content: center;
+}
+
+h2{
+	text-align:center;
+}
